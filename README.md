@@ -46,12 +46,9 @@ git clone https://github.com/iam-yashpradhan/stock_market_predicition_app.git
 pip install -r requirements.txt
 ```
 
-3. Change directory
-```bash
-cd streamlit_app
-```
 
-4. Run the app
+
+3. Run the app
 
 ```bash
 streamlit 🎯Home.py
